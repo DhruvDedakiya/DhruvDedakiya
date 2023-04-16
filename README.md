@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvdedakiya&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvdedakiya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dhruvdedakiya" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvdedakiya?logo=twitter&style=for-the-badge" alt="dhruvdedakiya" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Dhruv_Dedakiya" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvdedakiya?logo=twitter&style=for-the-badge" alt="dhruvdedakiya" /></a> </p>
 
 - 🔭 I’m currently working on **Smart Contract**
 
